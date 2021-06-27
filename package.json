@@ -1,6 +1,6 @@
 {
-  "name": "boilerplate-fullstack",
-  "version": "2.0.0",
+  "name": "gold-digger",
+  "version": "1.0.0",
   "main": "server/index.js",
   "license": "MIT",
   "keywords": [
@@ -38,6 +38,7 @@
     ]
   },
   "dependencies": {
+    "bulma-start": "0.0.4",
     "express": "^4.17.1",
     "knex": "^0.21.12",
     "pg": "^8.5.1",
